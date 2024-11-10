@@ -4,7 +4,6 @@ This is a simple Rock Paper Scissors game built using HTML, CSS, and JavaScript.
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
@@ -12,10 +11,6 @@ This is a simple Rock Paper Scissors game built using HTML, CSS, and JavaScript.
 - [Deployment](#deployment)
 - [Contributing](#contributing)
 - [License](#license)
-
-## Demo
-
-You can view the live demo of the game [here](insert-live-demo-link).
 
 ## Features
 
